@@ -9,12 +9,10 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-
+Create and edit a code for the seven segment dislay to create my initials 
 ## How to test
-
-Explain how to use your project
+Trouble shoot on and of switches in order to utilize seven segment display 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+seven segment display, AND/OR Gates, input an output connections
